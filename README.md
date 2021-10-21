@@ -1,4 +1,4 @@
-##Guide for my Lua scripts
+## **Guide for my Lua scripts**
 
 Main repository - https://github.com/Yaunick/Yannick-ReaScripts
 
