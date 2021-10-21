@@ -472,7 +472,7 @@
 
     > ***Translation into Russian/Перевод для русских.** Этот скрипт открывает инструмент из оригинального трека или его посыла из активного миди редактора. Соответственно этот скрипт должен быть назначен в Action list в разделе Midi editor (не в разделе Main).*
 
-- ### **Back notes (like in Studio One)**
+- ### **Erase notes along with moving edit cursor (like "Back" in Studio One)**
 
   - This script is needed to record notes step by step using a midi keyboard. During such recording, the edit cursor is moved, the script allows you to erase notes, returning the edit cursor to a step in accordance with the last note or chord
 
