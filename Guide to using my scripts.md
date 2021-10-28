@@ -375,7 +375,43 @@
     https://telegra.ph/Snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-12-21
 
     > ***Translation into Russian/Перевод для русских.** Этот скрипт позволяет создать живую сетку проекта под темп аудио. Если крутить колесо мыши вверх, курсор перемещается вперед в соответствии с расстоянием от начала айтема до тейк маркера (например тейк маркер удобно поставить на расстоянии одного такта от начала песни). Если крутить колесо мыши вниз, подстраивается сетка проекта и создается темпо маркеры. Скрипт использует автоматическую перемотку к курсору. Этот скрипт нельзя использовать иначе, кроме как на колесе мыши*
+	
+- ### **Propagate first selected item to all selected items**
 
+  - This script allows you to make a copy of the first selected item on top of the rest of the selected items. You need to select at least 2 items. 
+	
+	See GIF:
+	https://telegra.ph/Propagate-first-selected-item-to-all-selected-items-10-28
+  
+    > ***Translation into Russian/Перевод для русских.** Этот скрипт позволяет сделать копию первого выделенного айтема поверх остальных выделенных айтемов. Нужно выделить не менее 2х айтемов.*
+	
+- ### **Propagate first selected MIDI item to all selected MIDI items (with pool them)**
+
+  - This script allows you to make a copy of the first selected MIDI item on top of the rest of the selected MIDI items. You need to select at least 2 MIDI items. All copies of items will be dependent on each other
+	
+	See GIF:
+	https://telegra.ph/Propagate-first-selected-MIDI-item-to-all-selected-MIDI-items-with-pool-them-10-28
+  
+    > ***Translation into Russian/Перевод для русских.** Этот скрипт позволяет вам сделать копию первого выбранного MIDI айтема поверх остальных выбранных MIDI айтемов. Вам необходимо выбрать как минимум 2 MIDI айтема. Все копии айтемов будут зависеть друг от друга*
+	
+- ### **Propagate item under mouse cursor to all selected items**
+
+    - This script allows you to make a copy of the item under the mouse cursor to the selected items. This script is only suitable for shortcut
+	
+    See GIF:
+	https://telegra.ph/Propagate-item-under-mouse-cursor-to-all-selected-items-10-28
+	
+	> ***Translation into Russian/Перевод для русских.** - Этот скрипт позволяет сделать копию айтема, находящегося под курсором мыши, на выделенные айтемы. Этот скрипт подходит только для шортката*
+	
+- ### **Propagate MIDI item under mouse cursor to all selected MIDI items (with pool them)**
+
+    - This script allows you to make a copy of the MIDI item under the mouse cursor to the selected MIDI items. All copies of items will be dependent on each other. This script is only suitable for shortcut
+	
+    See GIF:
+	https://telegra.ph/Propagate-MIDI-item-under-mouse-cursor-to-all-selected-MIDI-items-with-pool-them-10-28
+	
+	> ***Translation into Russian/Перевод для русских.** - Этот скрипт позволяет сделать копию MIDI айтема, находящегося под курсором мыши, на выделенные MIDI айтемы. Все копии айтемов будут зависеть друг от друга. Этот скрипт подходит только для шортката*
+		
 # **Various**
 
 - ### **Insert FX by name to master track or selected tracks or selected items**
