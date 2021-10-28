@@ -313,7 +313,7 @@
 	
 - ### **Propagate item under mouse cursor to all selected items**
 
-    - This script allows you to make a copy of the item under the mouse cursor to the selected items. This script is only suitable for shortcut
+  - This script allows you to make a copy of the item under the mouse cursor to the selected items. This script is only suitable for shortcut
 	
     See GIF:
 	https://telegra.ph/Propagate-item-under-mouse-cursor-to-all-selected-items-10-28
@@ -322,7 +322,7 @@
 	
 - ### **Propagate MIDI item under mouse cursor to all selected MIDI items (with pool them)**
 
-    - This script allows you to make a copy of the MIDI item under the mouse cursor to the selected MIDI items. All copies of items will be dependent on each other. This script is only suitable for shortcut
+  - This script allows you to make a copy of the MIDI item under the mouse cursor to the selected MIDI items. All copies of items will be dependent on each other. This script is only suitable for shortcut
 	
     See GIF:
 	https://telegra.ph/Propagate-MIDI-item-under-mouse-cursor-to-all-selected-MIDI-items-with-pool-them-10-28
