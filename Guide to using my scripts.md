@@ -176,6 +176,16 @@
 
     > ***Translation into Russian/Перевод для русских.** Этот скрипт повторяет функцию из Studio One DAW. Вам нужно выбрать айтемы. Затем скрипт срендерит каждый айтем отдельно в один новый трек. Если выбраны айтемы из нескольких треков, то они срендерятся в то же количество новых треков. По умолчанию вызывается окно, чтобы указать хвост рендера.*
 
+- ### **Bounce selection (selected items on the track merge into one new item)**
+
+  - This script is similar to "Bounce selection (like in Studio One)", but on the track, all selected items bounce into one. By default, a window is called to indicate the render tail
+  
+    See GIF:
+	https://telegra.ph/Bounce-selection-selected-items-on-the-track-merge-into-one-new-item-10-29
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт похож на Bounce selection (как в Studio One), но на треке все выеделенные айтемы баунсятся в один. По умолчанию вызывается окно, чтобы указать хвост рендера.*
+	
+
 - ### **Unselect every even item of selected items**
 
   - This script unselects all even items relative to the selected items.
