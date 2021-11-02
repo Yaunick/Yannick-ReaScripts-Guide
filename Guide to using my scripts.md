@@ -149,7 +149,7 @@
 	
 - ### **Activate and set MIDI input quantize for selected tracks in Popup Menu**
 
-  - This script activate and set MIDI input quantize for selected tracks in Popup Menu. You can also turn off MIDI input quantize for selected tracks. If the selected tracks have the same MIDI input quantize, then it will be highlighted in the menu
+  - This script activates and sets MIDI input quantize for selected tracks in Popup Menu. You can also turn off MIDI input quantize for selected tracks. If the selected tracks have the same MIDI input quantize, then it will be highlighted in the menu
   
     See GIF:
 	https://telegra.ph/Activate-and-set-MIDI-input-quantize-for-selected-tracks-in-Popup-Menu-11-02
