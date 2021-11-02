@@ -146,6 +146,15 @@
     https://telegra.ph/Increase-all-first-identical-sends-from-selected-tracks-at-once-03-08
 
     > ***Translation into Russian/Перевод для русских.** Этот скрипт увеличивает значение посылов на значение X дБ, указанное в начале скрипта.Скрипт не будет работать и выдаст ошибку, если хотя бы один трек выбран без посылов, или с несколькими посылами, или если посыл-треки не совпадают между выбранными треками*
+	
+- ### **Activate and set MIDI input quantize for selected tracks in Popup Menu**
+
+  - This script activate and set MIDI input quantize for selected tracks in Popup Menu. You can also turn off MIDI input quantize for selected tracks. If the selected tracks have the same MIDI input quantize, then it will be highlighted in the menu
+  
+    See GIF:
+	https://telegra.ph/Activate-and-set-MIDI-input-quantize-for-selected-tracks-in-Popup-Menu-11-02
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт активирует и задает MIDI input quantize для выделенных треков. Также можно отключить MIDI input quantize для выбранных треков. При этом если у нескольких треков будет одинаковый MIDI input quantize, это значение будет подсвечиваться в меню*
 
 # **Items**
 
@@ -421,7 +430,16 @@
     https://telegra.ph/Snap-the-grid-at-edit-cursor-using-mousewheel-or-move-edit-cursor-by-step-12-21
 
     > ***Translation into Russian/Перевод для русских.** Этот скрипт позволяет создать живую сетку проекта под темп аудио. Если крутить колесо мыши вверх, курсор перемещается вперед в соответствии с расстоянием от начала айтема до тейк маркера (например тейк маркер удобно поставить на расстоянии одного такта от начала песни). Если крутить колесо мыши вниз, подстраивается сетка проекта и создается темпо маркеры. Скрипт использует автоматическую перемотку к курсору. Этот скрипт нельзя использовать иначе, кроме как на колесе мыши*
-		
+
+- ### **Horizontal zoom center settings in Popup Menu**
+
+  - This script is needed to quickly set up the horizontal zoom center on the go. The active setting of the horizontal zoom center is highlighted in the pop-up menu.
+  
+    See GIF:
+	https://telegra.ph/Horizontal-zoom-center-settings-in-Popup-Menu-11-02
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт нужен для быстрой настройки центра горизонтального зума на ходу. Активная настройка центра горизонтального зума выделяется в выпадающем меню*
+	
 # **Various**
 
 - ### **Insert FX by name to master track or selected tracks or selected items**
@@ -444,21 +462,21 @@
 
 - ### **Insert FX by name to master track or selected tracks or selected items in Popup Menu**
 
-  - This script adds an effect by name, which you must enter at the beginning of the script. Effect names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. 
+  - This script adds an effect by name, which you must enter at the beginning of the script. Effect names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. To customize the menu quickly, see the script "Copy all existed plugins names to the clipboard".
   
     See GIF:
 	https://telegra.ph/PopupMenu-Insert-FX-by-name-to-master-track-or-selected-tracks-or-selected-items-10-05
 	
-	> ***Translation into Russian/Перевод для русских.** Этот скрипт добавляет эффект по имени, которое необходимо ввести в начале скрипта. Имена эффектов должны быть разделены запятыми. Чтобы создать лейбл, введите # перед именем. Чтобы создать подменю, введите > перед именем, затем, чтобы закрыть подменю, введите строку из одного символа «<» (за которым также следует запятая). Этот скрипт должен быть назначен кнопке в тулбаре. При необходимости скорректируйте координаты меню в начале скрипта.*
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт добавляет эффект по имени, которое необходимо ввести в начале скрипта. Имена эффектов должны быть разделены запятыми. Чтобы создать лейбл, введите # перед именем. Чтобы создать подменю, введите > перед именем, затем, чтобы закрыть подменю, введите строку из одного символа «<» (за которым также следует запятая). Этот скрипт должен быть назначен кнопке в тулбаре. При необходимости скорректируйте координаты меню в начале скрипта. Чтобы кастомизировать меню быстро, смотрите скрипт "Copy all existed plugins names to the clipboard".*
 
 - ### **Insert VSTi by name to new track in Popup Menu**
 
-  - This script adds an instrument by name, which you must enter at the beginning of the script. Instrument names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. 
+  - This script adds an instrument by name, which you must enter at the beginning of the script. Instrument names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. To customize the menu quickly, see the script "Copy all existed plugins names to the clipboard".
   
     See GIF:
 	https://telegra.ph/PopupMenu-Insert-VSTi-by-name-to-new-track-10-05
 	
-	> ***Translation into Russian/Перевод для русских.** Этот скрипт добавляет инструмент по имени, которое необходимо ввести в начале скрипта. Имена инструментов должны быть разделены запятыми. Чтобы создать лейбл, введите # перед именем. Чтобы создать подменю, введите > перед именем, затем, чтобы закрыть подменю, введите строку из одного символа «<» (за которым также следует запятая). Этот скрипт должен быть назначен кнопке в тулбаре. При необходимости скорректируйте координаты меню в начале скрипта.*
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт добавляет инструмент по имени, которое необходимо ввести в начале скрипта. Имена инструментов должны быть разделены запятыми. Чтобы создать лейбл, введите # перед именем. Чтобы создать подменю, введите > перед именем, затем, чтобы закрыть подменю, введите строку из одного символа «<» (за которым также следует запятая). Этот скрипт должен быть назначен кнопке в тулбаре. При необходимости скорректируйте координаты меню в начале скрипта. Чтобы кастомизировать меню быстро, смотрите скрипт "Copy all existed plugins names to the clipboard".*
 
 - ### **Split items at mouse cursor or set track to exclusive solo**
 
@@ -477,7 +495,16 @@
     https://telegra.ph/Float-instrument-from-insert-or-send-at-selected-tracks-12-21
 
     > ***Translation into Russian/Перевод для русских.** Этот скрипт открывает инструмент из оригинального трека (треков) или его (их) посыла (посылов). В начале скрипта можно изменить некоторые параметры.*
+	
+- ### **Copy all existed plugins names to the clipboard**
 
+  - This script copies all plugins names (that Reaper found) to the clipboard. After that, you can paste the text of the plugins names into a text editor. This script was conceived to customize the plugins menu. 
+  
+    See GIF:
+	https://telegra.ph/Copy-all-existed-plugins-names-to-the-clipboard-11-02
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт копирует имена всех плагинов (которые нашел Reaper) в буфер обмена. После этого вы можете вставить текст названий плагинов в текстовый редактор. Этот скрипт был разработан для настройки меню плагинов.*
+  
 # **Mouse Modifiers**
 
 - ### **Float instruments from insert or send at selected track or toggle folder collapse**
