@@ -462,7 +462,7 @@
 
 - ### **Insert FX by name to master track or selected tracks or selected items in Popup Menu**
 
-  - This script adds an effect by name, which you must enter at the beginning of the script. Effect names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. To customize the menu quickly, see the script "Copy all existed plugins names to the clipboard".
+  - This script adds an effect by name, which you must enter at the beginning of the script. Effect names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. To customize the menu quickly, see the script [Copy all existed plugins names to the clipboard](https://github.com/Yaunick/Yannick-ReaScripts-Guide/blob/main/Guide%20to%20using%20my%20scripts.md#copy-all-existed-plugins-names-to-the-clipboard).
   
     See GIF:
 	https://telegra.ph/PopupMenu-Insert-FX-by-name-to-master-track-or-selected-tracks-or-selected-items-10-05
@@ -471,7 +471,7 @@
 
 - ### **Insert VSTi by name to new track in Popup Menu**
 
-  - This script adds an instrument by name, which you must enter at the beginning of the script. Instrument names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. To customize the menu quickly, see the script "Copy all existed plugins names to the clipboard".
+  - This script adds an instrument by name, which you must enter at the beginning of the script. Instrument names must be separated by commas. To create a label, enter # before the name. To create a submenu, enter > before the name, then to end the submenu enter a line of one character "<" (followed also by a comma). This script must be assigned to a button in the toolbar. If necessary, adjust the coordinates of the menu at the beginning of the script. To customize the menu quickly, see the script [Copy all existed plugins names to the clipboard](https://github.com/Yaunick/Yannick-ReaScripts-Guide/blob/main/Guide%20to%20using%20my%20scripts.md#copy-all-existed-plugins-names-to-the-clipboard).
   
     See GIF:
 	https://telegra.ph/PopupMenu-Insert-VSTi-by-name-to-new-track-10-05
