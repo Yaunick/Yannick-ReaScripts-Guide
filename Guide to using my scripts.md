@@ -440,6 +440,42 @@
 	
 	> ***Translation into Russian/Перевод для русских.** Этот скрипт нужен для быстрой настройки центра горизонтального зума на ходу. Активная настройка центра горизонтального зума выделяется в выпадающем меню*
 	
+- ### **Insert region from loop points and edit**
+
+  - This script repeats the standard action "Markers: Insert region from time selection and edit...", but instead of Time selection, Loop points are used.
+  
+    See GIF:
+	https://telegra.ph/Insert-region-from-loop-points-and-edit-11-04
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт повторяет стандартный экшн "Markers: Insert region from time selection and edit...", но вместо Time selection используются Loop points*
+	
+- ### **Insert empty space at loop points (moving later items)**
+
+  - This script repeats the standard action "Time selection: Insert empty space at time selection (moving later items)", but instead of Time selection, Loop points are used.
+  
+	See GIF:
+	https://telegra.ph/Insert-empty-space-at-loop-points-moving-later-items-11-04
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт повторяет стандартный экшн "Time selection: Insert empty space at time selection (moving later items)", но вместо Time selection используются Loop points*
+	
+- ### **Remove contents of loop points (moving later items)**
+
+  - This script repeats the standard action "Time selection: Remove contents of time selection (moving later items)", but instead of Time selection, Loop points are used.
+    
+	See GIF:
+	https://telegra.ph/Remove-contents-of-loop-points-moving-later-items-11-04
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт повторяет стандартный экшн "Time selection: Remove contents of time selection (moving later items)", но вместо Time selection используются Loop points*
+	
+- ### **Remove (clear) time selection then loop points**
+
+  - This script sequentially removes first the Time selection and then the Loop points. This works when Time selection and Loop points are not linked.
+  
+    See GIF:
+	https://telegra.ph/Remove-clear-time-selection-then-loop-points-11-04
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт последовательно удаляет сначала Time selection, а затем Loop points. Это работает, когда Time selection и Loop points не слинкованы. *
+	
 # **Various**
 
 - ### **Insert FX by name to master track or selected tracks or selected items**
