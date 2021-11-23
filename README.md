@@ -2,6 +2,8 @@
 
 Main repository - https://github.com/Yaunick/Yannick-ReaScripts
 
+Cockos forum thread - https://forum.cockos.com/showthread.php?t=258958
+
 Contact me - b.yanushevich@gmail.com
 
 Donation - https://www.paypal.com/paypalme/yaunick?locale.x=ru_RU
