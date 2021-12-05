@@ -155,6 +155,15 @@
 	https://telegra.ph/Activate-and-set-MIDI-input-quantize-for-selected-tracks-in-Popup-Menu-11-02
 	
 	> ***Translation into Russian/Перевод для русских.** Этот скрипт активирует и задает MIDI input quantize для выделенных треков. Также можно отключить MIDI input quantize для выбранных треков. При этом если у нескольких треков будет одинаковый MIDI input quantize, это значение будет подсвечиваться в меню*
+	
+- ### **Move last project track to last selected track**
+
+  - This script allows you to move last project track to last selected track. If the last children track in the folder is selected, the track will be moved to the end of the folder.
+  
+    See GIF:
+	https://telegra.ph/Move-last-project-track-to-last-selected-track-12-05
+
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт позволяет переместить последний трек в проекте к последнему выделенному треку. Если выбран последний дочерний трек в папке, то трек будет перемещен в конец папки*
 
 # **Items**
 
