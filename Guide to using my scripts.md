@@ -7,16 +7,15 @@
 
   https://www.sws-extension.org/
 
-  Also I do not test the scripts in Reaper below version 6, so I am not responsible for their work in older versions. All scripts work in new versions! If this is not a case, and if the scripts fail to update for the sake of compatibility, the scripts will be removed
+  Also I only test scripts in the most current REAPER versions, therefore  I am not responsible for their work in older versions. All scripts work in new versions! If this is not a case, and if the scripts fail to update for the sake of compatibility, the scripts will be removed
 
-  Also, I don't work on systems other than Windows, although scripts should compile on Mac and Linux systems as well
+  Also, I don't work on systems other than Windows, although scripts should compile on Mac and Linux systems as well. If I have doubts, sometimes I invite my friends to test scripts on Mac
 
   The scripts from “Mouse Modifiers” category must be assigned in the “mouse modifiers” settings, for other use they are not suitable
 
   > ***Translation into Russian/Перевод для русских.** Многие скрипты требуют SWS расширение версии 2.10.0 или выше.
-  Скачать его можно по ссылкам выше. Также я не тестирую скрипты в Reaper ниже 6 версии, поэтому я не несу ответственности за их работу в более старых версиях. 
-  Все скрипты работают в новых версиях! Если это окажется не так, а также если скрипты не получится обновить ради совместимости, эти скрипты будут удалены. 
-  Кроме того, я не работаю на других системах, кроме Windows, хотя скрипты должны компилироваться в других ОС. 
+  Скачать его можно по ссылкам выше. Также я тестирую скрипты только в последний версиях REAPER, поэтому я не несу ответственности за их работу в более старых версиях. Все скрипты работают в новых версиях! Если это окажется не так, а также если скрипты не получится обновить ради совместимости, эти скрипты будут удалены. 
+  Кроме того, я не работаю на других системах, кроме Windows, хотя скрипты должны компилироваться в других ОС. В случае сомнений я иногда приглашаю своих друзей тестировать скрипты на Mac.
   Скрипты из категории «Модификаторы мыши» должны быть назначены в Mouse modifiers, для другого использования они не подходят.* 
 
 # **Tracks**
