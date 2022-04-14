@@ -164,6 +164,51 @@
 
 	> ***Translation into Russian/Перевод для русских.** Этот скрипт позволяет переместить последний трек в проекте к последнему выделенному треку. Если выбран последний дочерний трек в папке, то трек будет перемещен в конец папки*
 
+- ### **Add envelope points at gridlines within Razor Edit (automation items support)**
+
+  - This script places points on the envelope along the grid (along the envelope line), the position of the points corresponds to the size of the grid within razor edit area. This script supports Automation items, that is, it can dot inside AI. In this case, the old points will not be erased, so be careful and do not duplicate points.
+  
+    See GIF:
+	https://telegra.ph/Add-envelope-points-at-gridlines-within-Razor-Edit-automation-items-support-04-14
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт размещает точки на огибающей по сетке (вдоль линии огибающей), положение точек соответствует размеру сетки в пределах области Razor edit. Этот скрипт поддерживает Automation items, то есть может делать точки внутри Automation items. При этом старые точки не сотрутся, поэтому будьте внимательны и не дублируйте точки*
+	
+- ### **Add envelope points at gridlines within Razor Edit (no automation items support - faster)**
+
+  - This script places points on the envelope along the grid (along the envelope line), the position of the points corresponds to the size of the grid within razor edit area. This script does not support Automation items, but is faster than the previous script. In this case, the old points will not be erased, so be careful and do not duplicate points.
+  
+    See GIF:
+	https://telegra.ph/Add-envelope-points-at-gridlines-within-Razor-Edit-no-automation-items-support---faster-04-14
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт размещает точки на огибающей по сетке (вдоль линии огибающей), положение точек соответствует размеру сетки в пределах области Razor edit. Этот скрипт не поддерживает Automation items, однако работает быстрее, чем предыдущий скрипт. При этом старые точки не сотрутся, поэтому будьте внимательны и не дублируйте точки*
+	
+- ### **Bypass all FX from selected tracks - Save previous (slot n)**
+
+  - This script set the bypass state for all FX on the tracks. But at the same time, the script saves data for restoring FX for each track. If the FX have already been bypassed, the script remembers this. You can copy the script as many times as you like, but change the slot number at the beginning of the script. To restore the FX state see the following script
+
+    See GIF:
+	https://telegra.ph/Yannick-Bypass-all-FX-from-selected-tracks---Save-previous-slot-n-04-14
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт устанавливает bypass для всех эффектов на треках. Но при этом скрипт сохраняет данные для восстановления FX для каждого трека. Если FX уже был в bypass состоянии, скрипт запоминает это. Вы можете копировать скрипт сколько угодно раз, но при этом можно изменить номер слота в начале скрипта. Чтобы восстановить состояние FX, см. следующий скрипт*
+	
+- ### **Bypass all FX from selected tracks - Restore previous (slot n)**
+
+  - This script restores the normal state after bypassing FX with the previous script. The slot number should be specified at the beginning of the script; depending on the number, different data can be restored. It doesn't matter if you reposition/rename tracks or FX before, the data will be restored correctly
+  
+	See GIF:
+	https://telegra.ph/Yannick-Bypass-all-FX-from-selected-tracks---Restore-previous-slot-n-04-14
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт восстанавливает дефолтное состояние после bypass FX с помощью предыдущего скрипта. Номер слота должен быть указан в начале скрипта; в зависимости от номера могут быть восстановлены разные данные. Неважно, переставляли ли вы/переименовывали треки или эффекты ранее, данные будут восстановлены корректно*
+	
+- ### **Bypass all FX from selected tracks - Clear all saves (slot n)**
+
+  - The previous 2 scripts work for each track individually, but you can get confused. Therefore, in case of problems, all save data for a specific slot number can be deleted with this script. The slot number should also be specified at the beginning of the script.
+  
+	See GIF:
+	https://telegra.ph/Bypass-all-FX-from-selected-tracks---Clear-all-saves-slot-n-04-14
+	
+	> ***Translation into Russian/Перевод для русских.** Предыдущие 2 скрипта работают для каждого трека индивидуально, но можно запутаться. Поэтому, в случае проблем, этим скриптом можно удалить все данные сохранения для конкретного номера слота. Номер слота также должен быть указан в начале скрипта.*
+
 # **Items**
 
 - ### **Add or open Melodyne VST3 in selected items**
