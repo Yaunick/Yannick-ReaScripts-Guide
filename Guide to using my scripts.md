@@ -213,12 +213,12 @@
 
 - ### **Add or open Melodyne VST3 in selected items**
 
-  - This script adds + opens (or only opens) melodyne of vst 3 format to the selected items. In this case, the name of the plugin in the FX browser must correspond to "VST3: Melodyne (Celemony)"
+  - This script adds + opens (or only opens) melodyne of vst 3 format to the selected items"
 
     See GIF:
     https://telegra.ph/Add-or-open-Melodyne-VST3-in-selected-items-12-20
 
-    > ***Translation into Russian/Перевод для русских.** Этот скрипт добавляет + открывает (либо только открывает) melodyne vst 3 на выделенные айтемы. При этом название плагина в FX browser должно соответствовать "VST3: Melodyne (Celemony)"*
+    > ***Translation into Russian/Перевод для русских.** Этот скрипт добавляет + открывает (либо только открывает) melodyne vst 3 на выделенные айтемы*
 
 - ### **Mixdown selection (like in Studio One)**
 
