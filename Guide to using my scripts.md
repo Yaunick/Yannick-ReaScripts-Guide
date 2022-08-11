@@ -208,6 +208,24 @@
 	https://telegra.ph/Bypass-all-FX-from-selected-tracks---Clear-all-saves-slot-n-04-14
 	
 	> ***Translation into Russian/Перевод для русских.** Предыдущие 2 скрипта работают для каждого трека индивидуально, но можно запутаться. Поэтому, в случае проблем, этим скриптом можно удалить все данные сохранения для конкретного номера слота. Номер слота также должен быть указан в начале скрипта.*
+	
+- ### **Offline all FX from selected tracks - Save previous (slot n)**
+
+  - This script sets the offline state for all effects on tracks. But at the same time, the script saves data for restoring FX for each track. If the FX already had an offline state, the script remembers this. You can copy the script as many times as you like, but change the slot number at the beginning of the script. To restore the FX state see the following script
+
+    See GIF:
+	https://telegra.ph/Offline-all-FX-from-selected-tracks---Save-previous-slot-n-08-05
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт устанавливает offline для всех эффектов на треках. Но при этом скрипт сохраняет данные для восстановления FX для каждого трека. Если FX уже был в offline состоянии, скрипт запоминает это. Вы можете копировать скрипт сколько угодно раз, но при этом можно изменить номер слота в начале скрипта. Чтобы восстановить состояние FX, см. следующий скрипт*
+	
+- ### **Offline all FX from selected tracks - Restore previous (slot n)**
+
+  - This script restores the normal state after offlining FX with the previous script. The slot number should be specified at the beginning of the script; depending on the number, different data can be restored. It doesn't matter if you reposition/rename tracks or FX before, the data will be restored correctly
+  
+	See GIF:
+	https://telegra.ph/Yannick-Bypass-all-FX-from-selected-tracks---Restore-previous-slot-n-04-14
+	
+	> ***Translation into Russian/Перевод для русских.** Этот скрипт восстанавливает дефолтное состояние после offline FX с помощью предыдущего скрипта. Номер слота должен быть указан в начале скрипта; в зависимости от номера могут быть восстановлены разные данные. Неважно, переставляли ли вы/переименовывали треки или эффекты ранее, данные будут восстановлены корректно*
 
 # **Items**
 
